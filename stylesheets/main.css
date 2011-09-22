@@ -1,0 +1,17 @@
+html {
+  border-top: solid 3px red;
+  padding-top: 15px;
+}
+.image_box p {
+  text-align: center;
+}
+.image_box p img {
+  padding: 5px;
+  text-align: center;
+}
+section {
+  margin-top: 40px;
+}
+iframe {
+  border: none;
+}
