@@ -20,7 +20,7 @@ iframe {
 
 #irc {
   background: #ffffff url(../img/irc_protocol.png) no-repeat left center;
-  padding: 0 0 2px 26px;
+  padding: 2px 0 2px 26px;
   position: absolute;
   right: 0;
   top:0;
