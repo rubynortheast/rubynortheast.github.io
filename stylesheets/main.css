@@ -15,3 +15,9 @@ section {
 iframe {
   border: none;
 }
+
+#irc {
+  background: #ffffff url(../img/irc_protocol.png) no-repeat left center;
+  margin-left:10px;
+  padding: 2px 0 2px 26px;
+}
