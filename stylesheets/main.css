@@ -16,12 +16,16 @@ iframe {
   border: none;
 }
 
-#third_party_links { position:relative; }
+#third_party_links a {
+  display: block;
+}
 
 #irc {
   background: #ffffff url(../img/irc_protocol.png) no-repeat left center;
   padding: 2px 0 2px 26px;
-  position: absolute;
-  right: 0;
-  top:0;
+}
+
+#google-group {
+ background: #ffffff url(../img/google-group.png) no-repeat left center;
+ padding: 2px 0 2px 26px;
 }
