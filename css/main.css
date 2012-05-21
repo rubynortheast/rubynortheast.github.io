@@ -1,7 +1,12 @@
 html {
   border-top: solid 3px #CC0000;
-  padding-top: 15px;
+  padding-top: 5px;
 }
+
+.navbar {
+  margin-top: 10px;
+}
+
 h1 {
   background: #ffffff url(../img/rubynortheast.png) no-repeat left center;
   padding: 2px 0 2px 60px;
@@ -48,8 +53,4 @@ iframe {
 #next_meet img {
   float: left;
   padding-right: 20px;
-}
-
-#next_meet p {
-  padding-top: 30px;
 }
