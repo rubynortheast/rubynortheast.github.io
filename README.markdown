@@ -1,6 +1,6 @@
 # Ruby North East Website
 
-This is the repository for [rubynortheast.com](http://rubynortheast.com).
+This is the repository for [rubynortheast.com](http://rubynortheast.com)
 
 Following [the fall-out] [1] around [ruby-lang.org](http://www.ruby-lang.org), it is suggested that we [follow their example] [2] by going for a *static* site. This means it it trivial for anyone in the group, regardless of skill-level, to contribute and has the added benefit that it can be hosted easily on github pages.
 
